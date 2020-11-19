@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605616444 source:c:\users\ajay sharma\documents\blockchain\socket_programming\main.c
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<windows.h>
+	"file_include.h"
+
+1605701364 c:\users\ajay sharma\documents\blockchain\socket_programming\file_include.h
+
+1605700407 source:c:\users\ajay sharma\documents\blockchain\socket_programming\main_program.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
